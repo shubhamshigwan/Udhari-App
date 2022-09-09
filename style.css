@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+    
+}
+#section1{ 
+    border: 1px solid black;
+}
+
+.border{
+    border: 1px solid black;
+}
+.inline{
+    box-sizing: border-box;
+}
+
+.blue{
+    background-color: #CAEBF2;
+}
+.orange{
+    background-color: #FF3B3F;
+}
+.grey{
+    background-color: #A9A9A9;
+}
+.neutral{
+    background-color: #EFEFEF;
+}
+body{
+    background-color: #EFEFEF;
+}
